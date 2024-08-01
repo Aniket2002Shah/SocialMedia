@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Social Media</string>
+    <string name="post">Post</string>
+    <string name="what_do_you_want_to_talk_about">What do you want to talk about...?</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="to_share_data">to share data</string>
+    <string name="like_state">like state</string>
+    <string name="date_focus">Date focus</string>
+    <string name="progile_picture">Progile Picture</string>
+    <string name="dialogTitle">SIGN OUT</string>
+    <string name="diaologMessage">Do you really want to sign-out?</string>
+</resources>
